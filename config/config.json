@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "215430061",
+    "password": "123456",
+    "database": "dbearthcare",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "215430061",
+    "password": "123456",
+    "database": "dbearthcare",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "215430061",
+    "password": "123456",
+    "database": "dbearthcare",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
